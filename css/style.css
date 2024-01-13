@@ -12,6 +12,16 @@ body {
     height: 100px;
 }
 
+.logo {
+  width: 300px;
+  height: 100px;
+}
+
+.navbar img {
+  width: 300px;
+  height: 100px;
+}
+
 .katalog {
   margin: 0;
   padding: 0;
@@ -164,7 +174,7 @@ body {
   }
   
 #contact {
-  background-image: url(../aset/contact.png);
+
   height: 450px;
 
 
@@ -202,4 +212,22 @@ body {
     color: gray;
     text-align: center;
     padding-top: 10px;
+  }
+
+  .Contact {
+    color: #fff;
+  }
+
+  .carousel-indicators .ol {
+    width: 1px;
+    height: 1px;
+  }
+
+ol {
+  size: 2px;
+}
+
+  ol li {
+    margin-bottom: -80px;
+    
   }
