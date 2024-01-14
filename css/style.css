@@ -242,3 +242,81 @@ ol {
     margin-bottom: -80px;
     
   }
+
+@media screen and (max-width: 767px) {
+    .navbar {
+        height: 80px;
+    }
+
+    .navbar-nav{
+        text-align: center;
+
+    }
+
+    .carousel-caption{
+        padding: 15px;
+    }
+
+    .navbarcon {
+        height: 70px;
+        margin-top: -35px;
+    }
+
+    .carousel-caption h1 {
+        font-size: 25px;
+    }
+
+    .carousel-caption p {
+        font-size: 17px;
+    }
+
+    .navbar img {
+        width: 200px;
+        height: 80px;
+    }
+
+    .navbar-toggler {
+        margin-right: 20px;
+        margin-top: 20px;
+    }
+
+    .carousel {
+        width: 100%;
+        min-height: 100vh;
+    }
+
+    .home1{
+        width: 100%;
+        height: 100vh;
+    }
+
+    .carousel-caption .column {
+        width: 100%;
+        padding: 10px;
+    }
+    .carousel-caption img{
+        width: 100px;
+        height: 100px;
+    }
+
+
+    .carousel-caption .row h2 {
+        font-size: 20px;
+    }
+
+    .carousel-caption .row p {
+        font-size: 13px;
+    }
+
+    .slide3 .row .column31{
+        margin-top: 20px;
+    }
+
+    .caption-s1 {
+        font-size: 2px;
+    }
+
+    .display-5 {
+        font-size: 1px;
+    }
+}
