@@ -16,7 +16,7 @@ body {
 }
 
 .w-100 {
-  height: 100vh;
+
 }
 
 .navbar-nav a{
@@ -33,6 +33,7 @@ body {
 .katalog {
   margin: 20px;
   padding-right: 200px;
+  padding-left: 200px;
 
 }
 .navbarcon {
@@ -183,7 +184,7 @@ body {
   }
   
 #contact {
-
+  background-image: url(/aset/contact.png);
   height: 450px;
 
 
@@ -203,8 +204,11 @@ body {
 }
 
 .kontak {
-  background-image: url(/aset/contact.png);
   margin-top: 300px;
+}
+
+.bgkontak {
+  
 }
 
   .tombol {
@@ -218,11 +222,12 @@ body {
   }
   
   .foot {
-    height: 20px;
+    height: 40px;
+    background-color: black;
   }
 
   .foot p {
-    background-color: black;
+
     color: gray;
     text-align: center;
     padding-top: 10px;

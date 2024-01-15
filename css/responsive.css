@@ -112,17 +112,10 @@
 
     }
 
-    .kontak {
-        padding-top: 300px;
-        margin-bottom: 0px;
-        margin-top: 300px;
+    #contact {
+       margin-top: 500px;
+       height: 500px;
 
     }
 
-    .foot p{
-        margin-bottom: -20px;
-        height: 20px;
-
-
-    }
 }
